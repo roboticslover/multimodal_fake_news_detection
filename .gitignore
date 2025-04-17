@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Jupyter notebooks (optional)
+*.ipynb
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Other common files to ignore
+.DS_Store
+.idea/

@@ -1,0 +1,7 @@
+streamlit 
+langchain-openai 
+langchain-community 
+pillow 
+python-dotenv
+duckduckgo-search
+wikipedia
